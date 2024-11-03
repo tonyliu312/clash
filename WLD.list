@@ -1,0 +1,14 @@
+# 内容：WLD
+# 域名关键字匹配
+# DOMAIN-KEYWORD,worldcoin
+# 域名后缀匹配
+DOMAIN-SUFFIX,worldcoin.org
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,toolsforhumanity.com
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,world-id-assets.com
+DOMAIN-SUFFIX,pactsafe.io
+DOMAIN-SUFFIX,lokalise.co
+DOMAIN-SUFFIX,bnnodeservice.com
+IP-CIDR,104.26.12.0/24,no-resolve
+IP-CIDR,199.16.158.0/24,no-resolve
